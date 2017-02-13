@@ -1,0 +1,13 @@
+.Scoring {
+  clear: both;
+}
+
+.Scoring-attempts {
+  font-size: 2rem;
+  float: left;
+}
+
+.Scoring-timer {
+  font-size: 2rem;
+  float: right;
+}

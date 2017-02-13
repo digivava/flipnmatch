@@ -1,0 +1,27 @@
+.Card {
+  background-color: #3F6CCE;
+  height: 100px;
+  width: 100px;
+  margin: 25px;
+  border-radius: 10%;
+  box-shadow: 0 0 10px #2C55AE;
+  border: 1px solid #fff;
+  float: left;
+  font-size: 24px;
+  font-weight: bold;
+  line-height: 34px;
+  margin-right: -1px;
+  margin-top: -1px;
+  text-align: center;
+
+  transition: 0.1s;
+}
+
+.Card-flipped {
+  background-color: #fff;
+  border: 1px solid #3F6CCE;
+}
+
+.Card-pregame {
+  background-color: rgba(63,108,206,0.5);
+}

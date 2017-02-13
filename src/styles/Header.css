@@ -1,0 +1,28 @@
+.Header {
+  background-color: #3F6CCE;
+  box-shadow: 0 0 10px #2C55AE;
+  padding: 15px 10px;
+}
+
+.Header-inner {
+  margin: 0 auto;
+  max-width: 900px;
+  /*background-color: red;*/
+}
+
+.Header-logo {
+  /*background: url('../images/logo.png') 0 0 no-repeat;*/
+  background-size: contain;
+  width: 110px;
+  height: 60px;
+  margin: 0 auto;
+  padding: 15px;
+}
+
+/*.Header-owl {
+  height: 5em;
+}*/
+
+.Header-title {
+  font-size: 1em;
+}
